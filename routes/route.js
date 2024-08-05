@@ -9,5 +9,4 @@ router.use('/auth', authRoutes);
 router.use('/user', userRoutes);
 router.use('/chat', chatRoutes);
 
-
 module.exports = router;
